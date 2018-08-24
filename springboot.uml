@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.eirunye.springboot</OriginalElement>
+  <nodes>
+    <node x="371.0" y="417.0">com.eirunye.springboot.service</node>
+    <node x="0.0" y="417.0">com.eirunye.springboot.exception</node>
+    <node x="0.0" y="310.0">com.eirunye.springboot.controller</node>
+    <node x="326.0" y="524.0">com.eirunye.springboot.model</node>
+    <node x="0.0" y="631.0">com.eirunye.springboot.enums</node>
+    <node x="0.0" y="155.0">com.eirunye.springboot.SpringbootApplication</node>
+    <node x="0.0" y="524.0">com.eirunye.springboot.handle</node>
+    <node x="311.0" y="631.0">com.eirunye.springboot.utils</node>
+    <node x="386.0" y="310.0">com.eirunye.springboot.repository</node>
+    <node x="0.0" y="0.0">com.eirunye.springboot.SpringbootApplicationTests</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="356.0" y="352.0" />
+  <SelectedNodes>
+    <node>com.eirunye.springboot.SpringbootApplicationTests</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

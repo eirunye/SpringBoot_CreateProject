@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: dev  #引用 application-dev.yml文件
+#  datasource:
+#      driver-class-name: com.mysql.cj.jdbc.Driver
+#      url: jdbc:mysql://127.0.0.1:3306/demo?useSSL=false&requireSSL=false&characterEncoding=UTF-8
+#      username: root
+#      password: 123456
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+
+
+
+
+
+
