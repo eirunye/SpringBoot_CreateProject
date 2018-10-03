@@ -8,11 +8,22 @@ package com.eirunye.springboot.model;
 
 public class EiBean {
 
+    private Integer id;
+
     private String name;
 
     private int age;
 
     private String hobby;
+
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
 
     public String getName() {
         return name;
